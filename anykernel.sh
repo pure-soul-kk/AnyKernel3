@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Sleepy Kernel for Redmi Note 10 Pro & Pro Max by t.me/itsshashanksp
+kernel.string=Vantom Kernel for Redmi Note 10 Pro & Pro Max
 do.devicecheck=1
 do.modules=0
 do.systemless=1
